@@ -1,0 +1,27 @@
+_repo: Development-of-the-Phonograph-at-Alexander-Graham-Bell-s-Volta-Laboratory--13-Contributions-f__30112
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30112-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newville, Leslie J.
+    gutenberg_agent_id: '34376'
+    url: http://www.gutenberg.org/2009/agents/34376
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2009-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Phonograph'
+title: "Development of the Phonograph at Alexander Graham Bell's Volta Laboratory\r\
+  \nContributions from the Museum of History and Technology, United States National\
+  \ Museum Bulletin 218, Paper 5, (pages 69-79)"
+url: http://www.gutenberg.org/ebooks/30112
