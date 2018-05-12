@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34376'
     url: http://www.gutenberg.org/2009/agents/34376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30112#Development-of-the-Phonograph-at-Alexander-Graham-Bell-s-Volta-Laboratory--13-Contributions-f_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
